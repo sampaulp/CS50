@@ -1,2 +1,2 @@
 # CS50
-CS50 course Problem set
+CS50 Problem set
